@@ -19,6 +19,10 @@ h3{
   padding: 0;
 }
 
+h3 span{
+  color: #FF585A;
+}
+
 .form h3 {
   color: #FF585A;
   font-size: 1.6em;
